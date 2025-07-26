@@ -1,0 +1,48 @@
+[submodule "Intermediate/1-QMLModule"]
+	path = Intermediate/1-QMLModule
+	url = https://github.com/dev-clement/QMLModule.git
+[submodule "Intermediate/2-QMLContextProperties"]
+	path = Intermediate/2-QMLContextProperties
+	url = https://github.com/dev-clement/2-QMLContextProperties.git
+[submodule "Intermediate/3-Connections"]
+	path = Intermediate/3-Connections
+	url = https://github.com/dev-clement/3-Connections.git
+[submodule "Intermediate/4-QMLSignalHandling"]
+	path = Intermediate/4-QMLSignalHandling
+	url = https://github.com/dev-clement/4-QMLSignalHandling.git
+[submodule "Intermediate/5-QMLAndJavaScript"]
+	path = Intermediate/5-QMLAndJavaScript
+	url = https://github.com/dev-clement/5-QMLAndJavaScript.git
+[submodule "Intermediate/7-InstantiableModules"]
+	path = Intermediate/7-InstantiableModules
+	url = https://github.com/dev-clement/7-InstantiableModules.git
+[submodule "Intermediate/6-InstantiableTypes"]
+	path = Intermediate/6-InstantiableTypes
+	url = https://github.com/dev-clement/6-InstantiableTypes.git
+[submodule "Intermediate/8-SingletonObjects"]
+	path = Intermediate/8-SingletonObjects
+	url = https://github.com/dev-clement/8-SingletonObjects.git
+[submodule "Intermediate/9-BasicDataTypes"]
+	path = Intermediate/9-BasicDataTypes
+	url = https://github.com/dev-clement/9-BasicDataType.git
+[submodule "Intermediate/10-TimeAndDateTime"]
+	path = Intermediate/10-TimeAndDateTime
+	url = https://github.com/dev-clement/10-TimeAndDateTime.git
+[submodule "Intermediate/11-SequenceToJavaScriptArray"]
+	path = Intermediate/11-SequenceToJavaScriptArray
+	url = https://github.com/dev-clement/11-SequenceToJavaScriptArray.git
+[submodule "Intermediate/12-TransferringDataFromQmlToCpp"]
+	path = Intermediate/12-TransferringDataFromQmlToCpp
+	url = https://github.com/dev-clement/12-QVariantList-QVariantMap.git
+[submodule "Intermediate/10-QMLQNetworkManager"]
+	path = Intermediate/10-QMLQNetworkManager
+	url = https://github.com/dev-clement/10-QMLQNetworkManager.git
+[submodule "Intermediate/11-QMLRestAccessManager"]
+	path = Intermediate/11-QMLRestAccessManager
+	url = https://github.com/dev-clement/11-QMLQRestAccessManager.git
+[submodule "Intermediate/13-InstantiableType"]
+	path = Intermediate/13-InstantiableType
+	url = https://github.com/dev-clement/13-InstantiableType.git
+[submodule "Intermediate/5-1CustomTypeCounter"]
+	path = Intermediate/5-1CustomTypeCounter
+	url = https://github.com/dev-clement/5-1CustomTypeCounter.git

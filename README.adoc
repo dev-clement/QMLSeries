@@ -1,0 +1,53 @@
+= QML Series learning through Udemy
+This asciidoc file is about all I learned about Qt QML through an Udemy course and my own learning things
+
+:toc:
+:sectnums:
+
+:toc:
+:sectnums:
+
+== link:https://github.com/dev-clement/QMLModule.git[QMLModule]
+This article talk about all the QML Module, how to create some in CMake and how to use it.
+
+== link:https://github.com/dev-clement/2-QMLContextProperties.git[QML Context Property]
+Using the ContextProperty (QQmlContext) let you take the C++ object and use it in the QML HMI
+
+== link:https://github.com/dev-clement/3-Connections/[Connections]
+As QML is part of the Qt framework, the cool thing about it is that you can then use the Connection meta-object compiler to work with the QML application and to make it more reactive.
+
+== link:https://github.com/dev-clement/4-QMLSignalHandling.git[Signal Handling]
+Using the `Connections` object in QML, we'll be able to create some slot depending on the signal of some object triggered.
+
+== link:https://github.com/dev-clement/5-QMLAndJavaScript/[Calling JavaScript ]
+The QML language use a JSON-like syntax and allows various expressions and methods to be defined as JavaScript functions. It also allows user to import JavaScript files and use the functionality those imports provide.
+
+== link:https://github.com/dev-clement/6-InstantiableTypes[Instantiable types]
+We’ll create a simple movie folder, this folder will have it’s own CMakeLists.txt file to building the movie module on its own, this CMakeLists will wrapping around our type.
+
+== link:https://github.com/dev-clement/7-InstantiableModules.git[Instantiable modules]
+In order to make this project, just take the movie we created on the previous project. So the following content of the project should be similar to this:
+
+== link:https://github.com/dev-clement/8-SingletonObjects.git[Using Singleton in QML]
+In QML, a singleton is an object which is created at most once per engine. In this article, we’ll explain how to create singletons and how to use them. We’ll also provide some best practices for working with singletons.
+
+== link:https://github.com/dev-clement/9-BasicDataType.git[Basic data types from QML and Cpp]
+In this article, we’ll learn by doing, making a class used to send back and forth element from C++ to QML and vice-versa, we’ll be sending data from Cpp to QML, and receiving data from QML to Cpp.
+
+== link:https://github.com/dev-clement/10-TimeAndDateTime.git[QTime and QDateTime from C++ to QML and vice-versa]
+In this article, we'll see how we can use QTime and QDateTime on QML as well as Cpp
+
+== link:https://github.com/dev-clement/11-SequenceToJavaScriptArray.git[Send sequence from QML to Cpp and vice-versa]
+In Qt, there is some sequence types such as QList, QVector, QMap, just to name a few, and you can use one of these to model sequences of data in you Qt application.
+
+== link:https://github.com/dev-clement/12-QVariantList-QVariantMap.git[Transferring data using QVariant]
+The QML engine provides automatic type conversion between QVariantList and JavaScript attays, and between QVariantMap and JavaScript objects.
+
+== link:https://github.com/dev-clement/10-QMLQNetworkManager.git[QNetworkManager with QML]
+In this article, we’ll create a simple client with REST in order to download JSON data from the internet from an Http server, we’ll be downloading data from the Cpp side and feeding that into the QML part for the user to see them.
+
+== link:https://github.com/dev-clement/11-QMLQRestAccessManager.git[Using QRestAccessManager]
+In this article, we'll talk about an update that has been pushed to Qt 6.7
+
+== link:https://github.com/dev-clement/5-1CustomTypeCounter.git[Using custom type in QML]
+In this article, we'll build together a Counter (a non-visual type); that means we are going to create the type in the Cpp for consuption, then the type will be exposed as a QML to the user.

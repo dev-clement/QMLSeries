@@ -52,3 +52,15 @@
 [submodule "Intermediate/5-3EnumeratedWithCounter"]
 	path = Intermediate/5-3EnumeratedWithCounter
 	url = https://github.com/dev-clement/5-3EnumerateWithVisualType.git
+[submodule "Intermediate/5-4ObjectListProperties"]
+	path = Intermediate/5-4ObjectListProperties
+	url = https://github.com/dev-clement/5-4ObjectListProperties.git
+[submodule "Intermediate/5-6DefaultProperties"]
+	path = Intermediate/5-6DefaultProperties
+	url = https://github.com/dev-clement/5-6DefaultProperties.git
+[submodule "Intermediate/5-5InheritedObjectListProperty"]
+	path = Intermediate/5-5InheritedObjectListProperty
+	url = https://github.com/dev-clement/5-5InheritedObjectListProperty.git
+[submodule "Intermediate/5-7GroupedProperties"]
+	path = Intermediate/5-7GroupedProperties
+	url = https://github.com/dev-clement/5-7GroupedProperties.git

@@ -46,3 +46,6 @@
 [submodule "Intermediate/5-1CustomTypeCounter"]
 	path = Intermediate/5-1CustomTypeCounter
 	url = https://github.com/dev-clement/5-1CustomTypeCounter.git
+[submodule "Intermediate/5-2Enumerates"]
+	path = Intermediate/5-2Enumerates
+	url = https://github.com/dev-clement/5-2Enumerates.git

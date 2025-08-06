@@ -49,3 +49,6 @@
 [submodule "Intermediate/5-2Enumerates"]
 	path = Intermediate/5-2Enumerates
 	url = https://github.com/dev-clement/5-2Enumerates.git
+[submodule "Intermediate/5-3EnumeratedWithCounter"]
+	path = Intermediate/5-3EnumeratedWithCounter
+	url = https://github.com/dev-clement/5-3EnumerateWithVisualType.git

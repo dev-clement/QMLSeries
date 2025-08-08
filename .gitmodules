@@ -64,3 +64,60 @@
 [submodule "Intermediate/5-7GroupedProperties"]
 	path = Intermediate/5-7GroupedProperties
 	url = https://github.com/dev-clement/5-7GroupedProperties.git
+[submodule "Intermediate/5-8AttachedProperties"]
+	path = Intermediate/5-8AttachedProperties
+	url = https://github.com/dev-clement/5-8AttachedProperties.git
+[submodule "Advanced/1-StringListModel"]
+	path = Advanced/1-StringListModel
+	url = https://github.com/dev-clement/1-StringListModel.git
+[submodule "Advanced/2-ObjectListModel"]
+	path = Advanced/2-ObjectListModel
+	url = https://github.com/dev-clement/2-ObjectListModel.git
+[submodule "Advanced/3-QPropertyEdit"]
+	path = Advanced/3-QPropertyEdit
+	url = https://github.com/dev-clement/3-QPropertyEdit.git
+[submodule "Advanced/4-QAbstractListModel"]
+	path = Advanced/4-QAbstractListModel
+	url = https://github.com/dev-clement/4-AbstractListModel.git
+[submodule "Advanced/5-Decoupling-data-source"]
+	path = Advanced/5-Decoupling-data-source
+	url = https://github.com/dev-clement/5-Decoupling-data-source.git
+[submodule "Advanced/6-ModelListProperty"]
+	path = Advanced/6-ModelListProperty
+	url = https://github.com/dev-clement/6-ModelListProperty.git
+[submodule "Advanced/7-RESTClient"]
+	path = Advanced/7-RESTClient
+	url = https://github.com/dev-clement/6-RestClient.git
+[submodule "Advanced/8-PaintingQMLItem"]
+	path = Advanced/8-PaintingQMLItem
+	url = https://github.com/dev-clement/7-PaintingQMLItem.git
+[submodule "Advanced/9-QMLBarChart"]
+	path = Advanced/9-QMLBarChart
+	url = https://github.com/dev-clement/8-QMLBarChart.git
+[submodule "Advanced/10-QMLBarChartProperty"]
+	path = Advanced/10-QMLBarChartProperty
+	url = https://github.com/dev-clement/9-BarChartProperty.git
+[submodule "Advanced/11-QMLCanvas"]
+	path = Advanced/11-QMLCanvas
+	url = https://github.com/dev-clement/10-QMLCanvas.git
+[submodule "Advanced/12-QJSValueSingleton"]
+	path = Advanced/12-QJSValueSingleton
+	url = https://github.com/dev-clement/12-Singleton.git
+[submodule "Advanced/13-QObjectValueSingleton"]
+	path = Advanced/13-QObjectValueSingleton
+	url = https://github.com/dev-clement/QObjectSingleton.git
+[submodule "Advanced/6-2LoadingQMLWithQQmlEngine"]
+	path = Advanced/6-2LoadingQMLWithQQmlEngine
+	url = https://github.com/dev-clement/6-1LoadingQMLWithQQmlEngine.git
+[submodule "Advanced/6-3ParsingCustomTypes"]
+	path = Advanced/6-3ParsingCustomTypes
+	url = https://github.com/dev-clement/6-2ParsingCustomTypes.git
+[submodule "Advanced/6-4QQuickView"]
+	path = Advanced/6-4QQuickView
+	url = https://github.com/dev-clement/QQuickView.git
+[submodule "Advanced/6-5QQmlApplicationEngine"]
+	path = Advanced/6-5QQmlApplicationEngine
+	url = https://github.com/dev-clement/6-4QQmlApplicationEngine.git
+[submodule "Advanced/6-6CatchQMLSignalFromCpp"]
+	path = Advanced/6-6CatchQMLSignalFromCpp
+	url = https://github.com/dev-clement/6-6CatchQMLSignalFromCpp.git

@@ -1,0 +1,43 @@
+= Qt QML advanced
+As far as we continue, we saw a lot of step in order to create Qt QML application and even how to integrate C++ with QML.
+
+:toc:
+:sectnums:
+
+== Introduction
+These articles, are for explaining when we have to integrate QML with C++. As you may know, Cpp is a language that let you make a good computation fast, and you want to make advantage of this while creating QML application. QML is good for creating graphical user interface smooth and nice. Still, all the heavy stuff should be done in Cpp.
+
+== link:https://github.com/dev-clement/1-StringListModel.git[String List model]
+In this article, we’ll see how we can setup a Model on the Cpp side, and then consume it on the QML side. That means, we will see how we feed model data on consumption in a view type of the QML side.
+
+== link:https://github.com/dev-clement/2-ObjectListModel.git[Object list model]
+In this article, we'll see how we can create expose a list of objects on the Cpp side and use it on the QML side.
+
+== link:https://github.com/dev-clement/3-QPropertyEdit.git[QProperty edit]
+In this article, we’ll see that it is also possible using the Q_PROPERTY macro in order to modify some attribute using the QML user interface in order for the user to modify what is need and send the changes on the back-end side of the application.
+
+== link:https://github.com/dev-clement/4-AbstractListModel.git[QAbstractListModel]
+Cpp models are part of the Model View Architecture in Qt QML and this design is made in order to separate the model and the view that is using this model.
+
+That means: We separate the way we store the data from the way we display it to the users.
+
+== link:https://github.com/dev-clement/5-Decoupling-data-source.git[Decoupling data source]
+As of now, we are basically wiering the data into our person model as a list of persons. Still, what will happens if we are adding some other pieces of data like data coming from another source.
+
+== link:https://github.com/dev-clement/6-RestClient.git[REST client]
+In this article, we'll work on the http part of Qt using its network API, we'll use the knownledges we already have in order to create an application.
+
+== link:https://github.com/dev-clement/7-PaintingQMLItem.git[Painting QML items]
+What we want to do, is like creating some logo on the Cpp side, and then display them on the QML sheet.
+
+== link:https://github.com/dev-clement/8-QMLBarChart.git[QML bar chart]
+In this article, we'll display some data on the QML side being a bar chart, that means we'll make use of the `QQuickPaintedItem` to display the bar chart on the window.
+
+== link:https://github.com/dev-clement/9-BarChartProperty.git[QML BarChart property]
+In this article we'll take the BarChart we did already on a previous article, and then provide some list property API for our bar chart application.
+
+== link:https://github.com/dev-clement/10-QMLCanvas.git[Using Canvas in QML]
+In this article, we'll see how we can create type only for display on QML using the Canvas type
+
+== link:https://github.com/dev-clement/QObjectSingleton.git[QObject singleton type]
+In this article we'll see how we can use QObject singleton class in order to wrapping around data that changes frequently

@@ -64,3 +64,6 @@
 [submodule "Intermediate/5-7GroupedProperties"]
 	path = Intermediate/5-7GroupedProperties
 	url = https://github.com/dev-clement/5-7GroupedProperties.git
+[submodule "Intermediate/5-8AttachedProperties"]
+	path = Intermediate/5-8AttachedProperties
+	url = https://github.com/dev-clement/5-8AttachedProperties.git
